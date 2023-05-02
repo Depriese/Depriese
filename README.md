@@ -7,7 +7,7 @@
 - <b>Project C</b>
   - [System Vulnerability](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b></i>
 - <b>Project D</b>
-  - [Log attacks](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Log attacks](https://github.com/Depriese/Cyber-Project-D)
   
 <h2> 🤳 Connect with me:</h2>
   
