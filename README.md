@@ -1,7 +1,21 @@
-### Hi there 👋
+<h1>Hello, I'm Depriese <br/><a href="https://www.linkedin.com/in/depriese-young-love/">Cybersecurity Graduate</a>
 
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+- <b>Project A</b>
+  - [Creating Virtual Machine](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Project C</b>
+  - [System Vulnerability](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b></i>
+- <b>Project D</b>
+  - [Log attacks](https://github.com/joshmadakor1/Sentinel-Lab)
+  
+<h2> 🤳 Connect with me:</h2>
+  
+<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+
+[linkedin]: https://www.linkedin.com/in/depriese-young-love/
 <!--
-**Depriese/Depriese** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Depriese Young Love/Depriese** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
