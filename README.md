@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Project A</b>
-  - [Creating Virtual Machine](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Creating Virtual Machine](https://github.com/Depriese/Cyber-Project-A)
 - <b>Project C</b>
   - [System Vulnerability](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b></i>
 - <b>Project D</b>
