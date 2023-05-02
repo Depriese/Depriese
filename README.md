@@ -5,7 +5,7 @@
 - <b>Project A</b>
   - [Creating Virtual Machine](https://github.com/Depriese/Cyber-Project-A)
 - <b>Project C</b>
-  - [System Vulnerability](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b></i>
+  - [System Vulnerability](https://github.com/Depriese/Cyber-Project-C) <b></i>
 - <b>Project D</b>
   - [Log attacks](https://github.com/Depriese/Cyber-Project-D)
   
