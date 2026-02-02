@@ -1,4 +1,4 @@
-<h1>Hello, I'm Depriese <br/><a href="https://www.linkedin.com/in/depriese-young-love/">Cybersecurity Graduate</a>
+<h1>Cybersecurity Graduate <br/><a href="https://www.linkedin.com/in/depriese-young-love/">Depriese Young Love</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
